@@ -1,6 +1,6 @@
 # About the CivicActions Design Team
 
-The CivicActions design team is made up of strategists and storytellers, analysts and activators, dedicated to improving experiences that serve the public good. Our work has spanned across federal, state, and local projects in order to help government agencies design with empathy, build with openness, and deliver with impact. [Learn more about the CivicActions Design Team in our open Guidebook.](https://guidebook.civicactions.com/en/latest/practice-areas/design-and-research/)
+The CivicActions design team is made up of strategists and storytellers, analysts and activators, dedicated to improving experiences that serve the public good. Our work has spanned across federal, state, and local projects in order to help government agencies design with empathy, build with openness, and deliver with impact. We also always have and always will be a fully remote design team. [Learn more about the CivicActions Design Team in our open Guidebook.](https://guidebook.civicactions.com/en/latest/practice-areas/design-and-research/)
 
 ## Our Commitment to Open Design
 
