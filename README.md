@@ -18,5 +18,29 @@ By working in the open through public repositories, open design artifacts, and t
 - We design trust: by making services clear, usable, and accessible.
 - We design outcomes: not just artifacts, but real-world, measurable impact for users and agencies.
 
----
+## Contribute & Connect
 
+We welcome collaboration, feedback, and reuse of our work.
+
+If you have ideas, questions, or want to build upon what you find here:
+- Open an [issue](../../issues) or start a [discussion](../../discussions)
+- Share examples of how you’ve adapted our work
+- Connect with us through [CivicActions.com](https://civicactions.com) or on [LinkedIn](https://www.linkedin.com/company/civicactions)
+
+Let’s keep improving how design is delivered in the public realm together!
+
+---
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+    <img alt="License: CC BY-SA 4.0" src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg">
+  </a>
+  <a href="https://github.com/CivicActions/design-and-research">
+    <img alt="Open Design" src="https://img.shields.io/badge/Open%20Design-🌍-blue.svg">
+  </a>
+  <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">
+    <img alt="Accessibility Commitment" src="https://img.shields.io/badge/Accessibility-WCAG_2.1_AA-brightgreen.svg">
+  </a>
+  <a href="https://civicactions.com/">
+    <img alt="CivicActions" src="https://img.shields.io/badge/Made%20by-CivicActions-%23f15a24.svg">
+  </a>
+</p>
