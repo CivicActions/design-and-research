@@ -1,5 +1,7 @@
 # CivicActions Design Principles
 
+Design principles provide a standard for how we commit to and advocate for our craft. They unify us across projects and teams, and provide a guideline for the type of work we want to do. They also help our colleagues and clients understand who we are as a practice area.
+
 ## We start with discovery, not solutions
 - We begin by listening
 - We make every effort to design proactively, not reactively
