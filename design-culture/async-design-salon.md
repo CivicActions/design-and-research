@@ -2,7 +2,7 @@
 
 A way to invite conversation and discussion without adding another meeting!
 
-[Jump to salon starter prompt library](https://github.com/CivicActions/design-and-research/new/main/design-culture#salon-prompts)
+[Jump to salon starter prompt library](...#salon-prompts)
 
 ## What tools we used
 - Slack as our internal messaging platform
