@@ -62,8 +62,9 @@ Topics for the design salon should spark creativity, thoughtful discourse, and a
 Topics don’t have to be digital design focused - they can cover art and architecture, creative processes, business strategy, coding, in-real-life design patterns and experiences, something you are wondering about, an idea you heard or read that might spark interesting conversation - really anything creative or inspiring that will helps us grow as practitioners, collaborators, and people.
 
 ## How to measure success
-- Original threads created from salon prompt
-- Emoji reactions to original threads or in the thread comments
+Track and measure some of these key metrics: 
+- Number of original threads created from salon prompt
+- Number of emoji reactions to original threads or in the thread comments
 - Amount of comments in the threads
 - Amount of engagement from design vs. other practice areas in your org
 
