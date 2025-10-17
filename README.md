@@ -26,6 +26,8 @@ If you have ideas, questions, or want to build upon what you find here:
 - Open an [issue](../../issues) or start a [discussion](../../discussions)
 - Share examples of how you’ve adapted our work
 - Connect with us through [CivicActions.com](https://civicactions.com) or on [LinkedIn](https://www.linkedin.com/company/civicactions)
+- Follow us on [Figma](https://www.figma.com/@civicactions)
+- [Learn more about the CivicActions Design Team in our open Guidebook.](https://guidebook.civicactions.com/en/latest/practice-areas/design-and-research/)
 
 Let’s keep improving how design is delivered in the public realm together!
 
