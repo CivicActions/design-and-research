@@ -23,19 +23,19 @@ This documentation is intended as a starting point for how design teams at Civic
 
 Design System Maintainers
 
-* * *
+
 
 # Purpose
 
 A step-by-step guide for publishing changes to the Design System library so they can be used in product design files.
 
-* * *
+
 
 # Why this matters
 
 Keeping the design system library up to date ensures that all product teams benefit from the latest improvements, bug fixes, and standardized components. Publishing consistently helps reduce design debt and maintain visual consistency across all teams.
 
-* * *
+
 
 # Responsibilities of the Design System Maintainer
 
@@ -46,7 +46,7 @@ You are responsible for:
 * Preventing unintended or breaking updates
   
 
-* * *
+
 
 # Step-by-Step Process
 
@@ -104,7 +104,7 @@ Tag designers in a message using your team’s preferred messaging platform and 
 >   * Thread them to this message!
 >     
 
-* * *
+
 
 # Recommended Cadence
 
@@ -115,7 +115,7 @@ The table below is just an example of different cadences a team could use. This 
 | Bi-weekly | Every other Tuesday | End of sprint |
 | Ad hoc | As needed | Once a batch of updates is completeFor critical bugs and urgent releases |
 
-* * *
+
 
 # Definition of Done
 
