@@ -21,13 +21,13 @@ This documentation is intended as a starting point for how design teams at Civic
 
 All Designers
 
-* * *
+
 
 # Purpose
 
 A guide for keeping your product files up-to-date with the latest design system changes.
 
-* * *
+
 
 # Why this matters
 
@@ -38,7 +38,7 @@ Keeping your file up to date ensures:
 * Reduction of outdated styles and technical debt
   
 
-* * *
+
 
 # Step-by-Step Process
 
@@ -85,7 +85,7 @@ Updates modal
 * If something looks wrong, reach out to the design system manager by starting a thread to the message where they notified designers of the update.
   
 
-* * *
+
 
 # When to Apply Updates
 
@@ -97,7 +97,7 @@ The table below is just an example of different cadences a designer could use. T
 | Weekly file maintenance | Review and apply any pending updates |
 | Before final handoff or QA | Ensure your file is using the latest components |
 
-* * *
+
 
 # Definition of Done
 
