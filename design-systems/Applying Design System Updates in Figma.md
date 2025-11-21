@@ -4,16 +4,16 @@ This documentation is intended as a starting point for how design teams at Civic
 
 **On this page:**
 
-*  [Audience](#Audience)
-*  [Purpose](#Purpose)
-*  [Why this matters](#Why-this-matters)
-*  [Step-by-Step Process](#Step-by-Step-Process)
+* 1 [Audience](#Audience)
+* 2 [Purpose](#Purpose)
+* 3 [Why this matters](#Why-this-matters)
+* 4 [Step-by-Step Process](#Step-by-Step-Process)
   *  [1\. Check for Updates](#1.-Check-for-Updates)
   *  [2\. Stay Informed](#2.-Stay-Informed)
   *  [3\. Review and Apply Changes](#3.-Review-and-Apply-Changes)
   *  [4\. QA Your File](#4.-QA-Your-File)
-*  [When to Apply Updates](#When-to-Apply-Updates)
-*  [Definition of Done](#Definition-of-Done)
+* 5 [When to Apply Updates](#When-to-Apply-Updates)
+* 6 [Definition of Done](#Definition-of-Done)
 
 * * *
 
