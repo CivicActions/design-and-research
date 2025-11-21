@@ -11,7 +11,7 @@ This documentation is intended as a starting point for how design teams at Civic
   *  [1\. Check for Updates](#1.-Check-for-Updates)
   *  [2\. Stay Informed](#2.-Stay-Informed)
   *  [3\. Review and Apply Changes](#3.-Review-and-Apply-Changes)
-  * 4.4 [4\. QA Your File](#4.-QA-Your-File)
+  *  [4\. QA Your File](#4.-QA-Your-File)
 * 5 [When to Apply Updates](#When-to-Apply-Updates)
 * 6 [Definition of Done](#Definition-of-Done)
 
