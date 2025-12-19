@@ -7,3 +7,4 @@ Here, we are sharing some of the tools, tips, and tricks we have created, tried,
 
 - [CivicActions Design Principles](https://github.com/CivicActions/design-and-research/blob/main/design-principles.md) 
 - [Async Design Salon](https://github.com/CivicActions/design-and-research/blob/main/design-culture/async-design-salon.md)
+- [Fun & Icebreakers](https://github.com/CivicActions/design-and-research/blob/main/design-culture/fun-and-icebreakers.md)
