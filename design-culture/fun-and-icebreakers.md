@@ -5,7 +5,7 @@ Having fun is an important part of building team camaraderie and balancing out t
 - [Gartic Phone Game](#gartic-phone)
 - [Would You Rather: Design Edition Icebreaker](#would-you-rather-design-edition)
 - [Prompt Party](#prompt-party)
-- 
+
 
 ## Gartic Phone
 
