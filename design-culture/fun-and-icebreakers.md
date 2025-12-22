@@ -1,6 +1,6 @@
 # Fun and Icebreakers
 
-Having fun is an important part of building team camaraderie and balancing out the stress or pressure of the day-to-day. As a fully remote design team, it is important to find the right mix of fun and delight to help people context switch into a more creative space or find their presence in a new meeting. Here, we have aggregated some games, activities, and ice breakers that have worked well for our fully remote team.
+Having fun is an important part of building team camaraderie and balancing out the day-to-day flow. As a fully remote design team, it is important to find the right mix of fun and delight to help people context switch into a more creative space or find their presence in a new meeting. Here, we have aggregated some games, activities, and ice breakers that have worked well for our fully remote team.
 
 - [Gartic Phone Game](#gartic-phone)
 - [Would You Rather: Design Edition Icebreaker](#would-you-rather-design-edition)
