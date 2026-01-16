@@ -8,5 +8,5 @@ People are encouraged to contribute to this knowledge base as new resources are 
 
 **Explore:**
 
-* [Publishing Design System Updates in Figma](https://github.com/CivicActions/design-and-research/blob/main/design-systems/Publishing-Design-System-Updates-in-Figma.md)
-* [Applying Design System Updates in Figma](https://github.com/CivicActions/design-and-research/blob/main/design-systems/Applying-Design-System-Updates-in-Figma.md)
+* [Publishing Design System Updates in Figma](https://github.com/CivicActions/design-and-research/blob/main/systems-and-implementation/design-system-mgmt/Publishing-Design-System-Updates-in-Figma.md)
+* [Applying Design System Updates in Figma](https://github.com/CivicActions/design-and-research/blob/main/systems-and-implementation/design-system-mgmt/Applying-Design-System-Updates-in-Figma.md)
