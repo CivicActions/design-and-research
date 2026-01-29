@@ -8,7 +8,7 @@ Templates are designed to be adapted for different clients, scopes, and branding
 
 ## What belongs here
 - Checklists
-- Agendas
+- Artifact templates
 - Starter documents
 
 Templates should support guidance elsewhere in the repo and be linked to rather than explained here.
